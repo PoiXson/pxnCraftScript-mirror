@@ -1,0 +1,10 @@
+name: ${project.name}
+main: com.poixson.craftscript.CraftScriptPlugin
+version: ${project.version}
+api-version: ${spigot-short-version}
+load: STARTUP
+depend:
+  - pxnCommonPluginMC
+authors: [ lorenzop ]
+website: ${project.url}
+description: ${project.description}
